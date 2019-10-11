@@ -7,4 +7,7 @@ public class Teacher{
 	public String getLocation(){
 		return this.location;
 	}
+
+	hxz hen shuai
+
 }
